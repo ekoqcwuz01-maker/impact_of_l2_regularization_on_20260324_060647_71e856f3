@@ -1,0 +1,14 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": false,
+      "completion_marker": null,
+      "outputs": {},
+      "log_file": "/workspaces/impact_of_l2_regularization_on_20260324_060647_71e856f3/logs/resource_finder_claude.log",
+      "transcript_file": "/workspaces/impact_of_l2_regularization_on_20260324_060647_71e856f3/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 4.078096866607666
+    }
+  },
+  "work_dir": "/workspaces/impact_of_l2_regularization_on_20260324_060647_71e856f3"
+}
